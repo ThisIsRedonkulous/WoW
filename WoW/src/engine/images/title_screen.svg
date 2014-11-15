@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="title_screen.svg">
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient3304">
+      <stop
+         id="stop3312"
+         offset="0"
+         style="stop-color:#d9a444;stop-opacity:0.88095236;" />
+      <stop
+         style="stop-color:#5d7fa6;stop-opacity:0.80952382;"
+         offset="1"
+         id="stop3308" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3296">
+      <stop
+         style="stop-color:#30547f;stop-opacity:1;"
+         offset="0"
+         id="stop3298" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop3300" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3296"
+       id="radialGradient3302"
+       cx="653.29779"
+       cy="-306.57675"
+       fx="653.29779"
+       fy="-306.57675"
+       r="401.66666"
+       gradientTransform="matrix(-1.6602346,-0.00788455,0.00596838,-1.256752,1490.3461,-79.954852)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3304"
+       id="radialGradient3337"
+       cx="415.48407"
+       cy="-79.63633"
+       fx="415.48407"
+       fy="-79.63633"
+       r="335.33674"
+       gradientTransform="matrix(-2.3857054,0.10775031,-0.00242011,-0.05355478,1411.4002,184.29989)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3304"
+       id="radialGradient3343"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.3857054,0.10775031,-0.00242011,-0.05355478,1407.4002,184.29989)"
+       cx="415.48407"
+       cy="-79.63633"
+       fx="415.48407"
+       fy="-79.63633"
+       r="335.33674" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.08"
+     inkscape:cx="370.44773"
+     inkscape:cy="301.24985"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1402"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="fill:url(#radialGradient3302);fill-opacity:1;stroke:none"
+       id="rect3294"
+       width="803.33331"
+       height="605"
+       x="-0.18518522"
+       y="-1.1111112" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="Title"
+     inkscape:groupmode="layer"
+     style="display:inline;opacity:1">
+    <text
+       xml:space="preserve"
+       style="font-size:68.05426788px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#radialGradient3343);fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="78.135902"
+       y="248.50345"
+       id="text2993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="78.135902"
+         y="248.50345"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:url(#radialGradient3343);fill-opacity:1;font-family:Chalkduster;-inkscape-font-specification:Chalkduster Bold">World of Walmart</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="414.77826"
+       y="472.22223"
+       id="text3003"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="414.77826"
+         y="472.22223"
+         id="tspan3009"
+         style="font-size:12px;text-align:center;text-anchor:middle;-inkscape-font-specification:Chalkduster;font-family:Chalkduster;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Created by Ben Miller, Charles Teese, and Ryan Shea</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3013"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3015"><rect
+           id="rect3017"
+           width="238.88889"
+           height="80.555557"
+           x="287.03705"
+           y="477.77777" /></flowRegion><flowPara
+         id="flowPara3019"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="171.2963"
+       y="441.66666"
+       id="text3035"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3037"
+         x="171.2963"
+         y="441.66666" /></text>
+  </g>
+</svg>
