@@ -22,6 +22,10 @@ public class SaveGameFile {
 		readGameFile();
 	}
 	
+	public SaveGameFile() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public Object getSave()
 	{
 		readGameFile();

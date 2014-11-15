@@ -32,6 +32,7 @@ public class Window extends JFrame{
 	{
 		super("World of Walmart");
 		comms=comm;
+		saveFile = new SaveGameFile("test.sav");
 		struct = new JavaHasNoStructs(new Inventory(4,4), this);
 		walmart = new Walmart(struct);
 		ferret = new DatFerret(struct);
@@ -52,14 +53,14 @@ public class Window extends JFrame{
 				{
 					curPanel.update();
 					repaint();
-//					try
-//					{
-//						sleep(1000/framerate);
-//					}
-//					catch(InterruptedException e)
-//					{
-//						System.out.print("what");
-//					}
+					try
+					{
+						sleep(500/framerate);
+					}
+					catch(InterruptedException e)
+					{
+						System.out.print("what");
+					}
 				}
 			}
 		};
