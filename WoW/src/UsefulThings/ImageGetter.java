@@ -19,7 +19,7 @@ public final class ImageGetter {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		else System.err.println("nope");
+		else System.err.println("nope" + path);
 		return null;
 	}
 }
